@@ -7,7 +7,7 @@ import './globals.css'
 export const metadata: Metadata = {
   title: 'brockman detailing',
   description: 'Professional auto detailing services to make your vehicle shine.',
-  generator: 'v0.app',
+  generator: 'brockman-detailing',
 }
 
 export default function RootLayout({
